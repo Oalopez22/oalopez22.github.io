@@ -339,13 +339,13 @@ a:hover{
     border-bottom: 1px solid #fff;
     padding-bottom: 60px;
 }
-.nav--footer{
+/* .nav--footer{
     padding-bottom: 20px;
     display: grid;
     gap: 1em;
     grid-auto-flow: row;
     height: 100%;
-}
+} */
 
 .nav__link-footer{
     display: flex;
@@ -456,15 +456,15 @@ a:hover{
         width: 200px;
         height: 200px;
     }
-    .nav--footer{
+/*     .nav--footer{
         width: 100%;
         justify-items: center;
-    }
-    .nav__link-footer{
+    } */
+/*     .nav__link-footer{
         width: 100%;
         justify-content: space-evenly;
         margin: 0;
-    }
+    } */
     .footer__container{
         flex-wrap: wrap;
     }
@@ -520,9 +520,9 @@ a:hover{
             margin: 15px;
         }
 
-        .nav--link--footer{
+/*         .nav--link--footer{
             justify-content: space-between;
-        }
+        } */
         .nav--footer{
             padding-bottom: 60px;
         }
