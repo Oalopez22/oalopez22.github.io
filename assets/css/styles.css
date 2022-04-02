@@ -235,11 +235,11 @@ a:hover{
     grid-row: 1/2;
     opacity: 0;
     pointer-events: none;
+    transition: all 0.25s;
 }
 .testimony__body--show{
     pointer-events: unset;
     opacity: 1;
-    transition: all 0.25s;
 }
 .testimony__img{
     width: 250px;
